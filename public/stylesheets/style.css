@@ -1,0 +1,26 @@
+
+small{
+  color: red;
+}
+
+body{
+  display:flex;
+    justify-content: center;
+    align-items: center;
+  text-align:center;
+  font-size: 26px;
+}
+
+input{
+  font-size: 26px;
+}
+select{
+  font-size: 26px;
+}
+
+.formulario{
+  text-align: center;
+  border:30px solid black;
+  box-shadow: 15px 15px dimgrey;
+  width: 65%;
+}
